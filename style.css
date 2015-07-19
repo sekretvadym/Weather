@@ -183,7 +183,7 @@ a{
 }
 
 .arrow{
-	background:url('../img/arrows12.png') no-repeat;
+	background:url(img/arrows12.png) no-repeat;
 	width:34px;
 	height:45px;
 	position:absolute;
